@@ -1,3 +1,5 @@
+package com.solvd.practicalInterviewQuestions;
+
 public class StringProcessing2 {
     public static boolean isTwoStringsPalindromes(String a, String b) {
         if (a.length()!=b.length()) {

@@ -1,3 +1,5 @@
+package com.solvd.practicalInterviewQuestions;
+
 import java.util.List;
 
 public class CalculationMatrixTest {

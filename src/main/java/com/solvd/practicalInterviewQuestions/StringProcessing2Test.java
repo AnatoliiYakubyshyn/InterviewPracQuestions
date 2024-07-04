@@ -1,3 +1,5 @@
+package com.solvd.practicalInterviewQuestions;
+
 public class StringProcessing2Test {
 
     public static void main(String[] args) {
